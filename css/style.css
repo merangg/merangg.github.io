@@ -1344,3 +1344,6 @@ pre code {
 .white-text {
 	color: white;
 }
+.selected {
+	color: #2bbc8a;
+}
