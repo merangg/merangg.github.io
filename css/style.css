@@ -1341,3 +1341,6 @@ pre code {
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
     opacity: 0.8;
 }
+.white-text {
+	color: white;
+}
