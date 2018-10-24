@@ -1,0 +1,64 @@
+Package: com.maxarmin.jooxed
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: maxarmin
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.maxarmin.jooxed_1.1_iphoneos-arm.deb
+Size: 4312
+MD5sum: 2e0827250125dc5d2f2d60d2ff101fd8
+SHA1: dc087a8c3e90cabdeca67a321577f938cca49312
+SHA256: b4be241c24642298cad956949ed7d4f0205ac259b86ba2fab65f87a91f2eb19b
+Section: Tweaks
+Description: Bypasses JOOX jailbreak detection and uhh... other stuffs. No options to configure.
+Author: maxarmin
+Name: JOOXed
+
+Package: com.maxarmin.singvippatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: maxarmin
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.maxarmin.singvippatch_0.0.1_iphoneos-arm.deb
+Size: 3276
+MD5sum: e523fd7eb9b6b61504d598423808043b
+SHA1: 357e1ae4d19e7f48491acb3dfcc5ebbe97c72eaa
+SHA256: 3fa4bf45f79bea93512f845a1a92b5ff381765b70bc6420e03afc830ba10be73
+Section: Tweaks
+Description: Want a Free VIP on Smule’s Sing? Here ya go!
+Author: maxarmin
+Name: Sing! VIP Patch
+
+Package: com.syahmi.mbjbpass
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Muhammad Syahmi Borhanodin
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.syahmi.mbjbpass_0.1.1_iphoneos-arm.deb
+Size: 2754
+MD5sum: 502ddc3ae814cb875fd24e7c934fff95
+SHA1: 06b47fb03e09aa13e6e55d3c6ed94164e0cc08c3
+SHA256: 3abf74b994083580e62d1ffd1a5ab177ce102f6d0aba0c27962a5ff550b9255b
+Section: Tweaks
+Description: Bypass Maybank app jailbreak detection.
+Author: Muhammad Syahmi Borhanodin
+Name: Maybank JB Bypass
+
+Package: com.foxfort.facebookdarkmode
+Version: 2.1.10
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.foxfort.facebookdarkmode_2.1.10_iphoneos-arm.deb
+Size: 4312
+MD5sum: 2e0827250125dc5d2f2d60d2ff101fd8
+SHA1: dc087a8c3e90cabdeca67a321577f938cca49312
+SHA256: b4be241c24642298cad956949ed7d4f0205ac259b86ba2fab65f87a91f2eb19b
+Section: Tweaks
+Description: By[ass deb from official repo
+Author: FoxfortMobile
+Name: FacebookDarkMode
+
