@@ -54,11 +54,11 @@ Installed-Size: 404
 Depends: mobilesubstrate
 Filename: ./debs/com.foxfort.facebookdarkmode_2.1.10_iphoneos-arm.deb
 Size: 4312
-MD5sum: 2e0827250125dc5d2f2d60d2ff101fd8
-SHA1: dc087a8c3e90cabdeca67a321577f938cca49312
-SHA256: b4be241c24642298cad956949ed7d4f0205ac259b86ba2fab65f87a91f2eb19b
+MD5sum: 1A24C2F99D5BFD7B17BAE09E3093DDD9
+SHA1: 7F371EE5DAA238D14FF4DCCFFBC4DBB34C57D08A
+SHA256: 23A3896451F68FE9D919E9D460E6E0ABE1948E481B434FB526687C77DE50A21F
 Section: Tweaks
-Description: By[ass deb from official repo
+Description: Bypass deb from official repo
 Author: FoxfortMobile
 Name: FacebookDarkMode
 
