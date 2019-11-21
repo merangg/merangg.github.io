@@ -1346,9 +1346,9 @@ pre code {
 .selected {
 	color: #2bbc8a;
 }
-.label-new{background-color:#2bbc8a}
+.label-new{background-color: #324ebc}
 .label-new[href]:focus,
-.label-new[href]:hover{background-color:#2bbc8a}
+.label-new[href]:hover{background-color:#324ebc}
 .label-depricated{background-color: #bc4f50}
 .label-depricated[href]:focus,
 .label-depricated[href]:hover{background-color:#bc4f50}
