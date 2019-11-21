@@ -1352,3 +1352,6 @@ pre code {
 .label-depricated{background-color: #bc4f50}
 .label-depricated[href]:focus,
 .label-depricated[href]:hover{background-color:#bc4f50}
+.label-available{background-color: #bcb75d}
+.label-available[href]:focus,
+.label-available[href]:hover{background-color:#bcb75d}
