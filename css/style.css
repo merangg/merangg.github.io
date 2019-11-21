@@ -1347,3 +1347,6 @@ pre code {
 .selected {
 	color: #2bbc8a;
 }
+.label-danger{background-color:#d9534f}
+.label-danger[href]:focus,
+.label-danger[href]:hover{background-color:#c9302c}
