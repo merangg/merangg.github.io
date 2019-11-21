@@ -78,7 +78,17 @@
             arbitrary file upload and cross site scripting (XSS).
 
         <span class="h1"><a href="#">TNB XDrill</a></span>
-        <pre><<a href="test"></a></pre>
+        <pre>$data = User::select('id', 'name', 'email', 'is_active', 'role')->where('role', 'Admin');
+
+        return DataTables::of($data)
+            ->escapeColumns([])
+            ->editColumn('is_active', '
+                @if($is_active == 1) <span style="font-size: 12px" class="badge badge-success">Active</span>
+                @else
+                <span style="font-size: 12px" class="badge badge-danger">Not Active</span>
+                @endif')
+            ->addColumn('action', '<a class="btn btn-primary text-white btn-block " href="/users/{{$id}}/edit"><i class="fe-edit"></i> Edit </a>')
+            ->make(true);</pre>
         <span class="h1"><a href="#">CMERP INSIGHT CyberSecurity Malaysia</a></span>
         <span class="h1"><a href="#">TNB ICON Cyber Challenge 2019</a></span>
         <span class="h1"><a href="#">NetByteSec Website</a></span>
