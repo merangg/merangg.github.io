@@ -1355,3 +1355,6 @@ pre code {
 .label-available{background-color: #bcb75d}
 .label-available[href]:focus,
 .label-available[href]:hover{background-color:#bcb75d}
+.label-unknown{background-color: #bc7299}
+.label-unknown[href]:focus,
+.label-unknown[href]:hover{background-color:#bc7299}
