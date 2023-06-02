@@ -1,3 +1,0 @@
-run this in bash:
-
-dpkg-scanpackages -m . >Packages && bzip2 Packages

@@ -1,1 +1,0 @@
-dpkg-deb -R com.foxfort.facebookdarkmode_2.1.10_iphoneos-arm.deb tmp
